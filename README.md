@@ -38,4 +38,14 @@ python ./code/test.py  # Testing on  dataset
 ## Acknowledgements
 
 We would like to express our gratitude to the Desco and Bidirectional Copy-Paste (BCP) teams for their inspiring work and valuable contributions. Their provided code and assistance have significantly influenced our project and helped shape its development. Thank you for your support and the foundational work that made this research possible.
+Library Information
+This project utilizes the following libraries:
 
+tensorboardX: A library for TensorBoard support in PyTorch.
+tqdm: A fast, extensible progress bar for Python.
+scikit-image: A collection of algorithms for image processing.
+numpy: A fundamental package for scientific computing in Python.
+pandas: A data analysis and manipulation library.
+matplotlib: A plotting library for creating static, animated, and interactive visualizations in Python.
+opencv-python: A Python wrapper for the OpenCV library for computer vision tasks.
+SimpleITK: A simplified layer built on top of the Insight Segmentation and Registration Toolkit (ITK).
