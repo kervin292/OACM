@@ -24,6 +24,11 @@ Other dependencies and their versions:
 - LA Dataset: [LA Dataset Link](https://github.com/yulequan/UA-MT/tree/master/data)
 - kits19 Dataset: [kits19 Dataset Link](https://paperswithcode.com/dataset/kits19)
 - Lits Dataset: [Lits Dataset Link](https://paperswithcode.com/dataset/lits17)
+### Model Files
+The model files can be downloaded from the following link:
+- [Model Files](https://pan.baidu.com/s/19qFfX5eveS_yqRTK8s5Wuw?pwd=02ex)
+  - Extraction Code: `02ex`
+
 ### Train
 python ./code/utils/registration   #Label registration
 python ./code/train.py  # Training on  dataset
